@@ -14,3 +14,6 @@
 - D:\server\Python34>python.exe D:\server\www3\CookieRead\main\python\CookieFromChrome.py
 - D:\server\Python34>python.exe D:\server\www3\CookieRead\main\python\CookieFromFirefox.py
 А в результате полученные данные (с кодом пользователя) можно сохранить в файл...
+
+------------------------------------------------------------------------------------------------------------
+Работоспособность этого модуля успешно была протестирована на Windows-системе
