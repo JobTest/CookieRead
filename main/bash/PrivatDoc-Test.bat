@@ -1,0 +1,1 @@
+java -jar C:\Users\User\Downloads\slave.jar -jnlpUrl http://jenkins.nc.pb.ua/jenkins/computer/PrivatDoc-Test/slave-agent.jnlp -secret 323870f248500352501a7ae661c859133ad2161d5c5be99519feb26a5be83786
