@@ -21,3 +21,8 @@
 * `D:\server\Python34>python.exe D:\server\www3\CookieRead\main\python\CookieFromFirefox.py`
 
 А в результате полученные данные (с кодом пользователя) можно сохранить в файл...
+
+
+Начало работы
+=============
+* [doc.pb.ua](https://doc.pb.ua/)
